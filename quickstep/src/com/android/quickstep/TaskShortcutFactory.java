@@ -48,6 +48,7 @@ import com.android.launcher3.model.WellbeingModel;
 import com.android.launcher3.popup.SystemShortcut;
 import com.android.launcher3.popup.SystemShortcut.AppInfo;
 import com.android.launcher3.util.InstantAppResolver;
+import com.android.launcher3.util.PackageManagerHelper;
 import com.android.launcher3.util.SplitConfigurationOptions.SplitPositionOption;
 import com.android.launcher3.views.ActivityContext;
 import com.android.quickstep.orientation.RecentsPagedOrientationHandler;
